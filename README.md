@@ -1,4 +1,4 @@
-# filter-camera
+# Filter-Camera
 
 Welcome to Filter-camera, a project that uses OpenCV to apply real-time filters to a camera feed. This Python script allows you to experiment with various filters like greyscale, edge detection, and blur, providing an interactive and educational experience.
 
